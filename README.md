@@ -548,7 +548,7 @@ Vendor capabilities, model availability, pricing and regulatory obligations shou
 
 ### Read the complete framework
 
-**[Enterprise AI Transformation Framework & Playbook v1.2 →](docs/Enterprise-AI-Transformation-Framework-and-Playbook-v1.2.pdf)**
+**[Enterprise_AI_Transformation_Framework_and_Playbook_v1.2 → (docs/Enterprise_AI_Transformation_Framework_and_Playbook_v1.2.pdf)**
 
 Intended Audience
 

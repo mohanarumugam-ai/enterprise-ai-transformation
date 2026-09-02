@@ -267,7 +267,6 @@ This creates a balance between enterprise control and business agility.
 
 The framework uses a layered enterprise AI architecture with a cross-cutting control plane.
 
-<img width="1286" height="515" alt="image" src="https://github.com/user-attachments/assets/754dec03-2c6b-4f5c-818d-fd068cd13efa" />
 Experience
     ↓
 AI Applications

@@ -267,7 +267,7 @@ This creates a balance between enterprise control and business agility.
 
 The framework uses a layered enterprise AI architecture with a cross-cutting control plane.
 
-```text
+<img width="1286" height="515" alt="image" src="https://github.com/user-attachments/assets/754dec03-2c6b-4f5c-818d-fd068cd13efa" />
 Experience
     ↓
 AI Applications
@@ -564,17 +564,6 @@ Security and Risk leaders
 Finance and FinOps teams
 Transformation leaders
 Business and product leaders
-Document
-
-Enterprise AI Transformation Framework & Playbook — Version 1.2
-
-Author: Mohan Arumugam
-Published: August 2026
-Positioning: Vendor-neutral, evidence-based practitioner framework
-
-Read the complete framework
-
-Enterprise AI Transformation Framework & Playbook v1.2 →
 
 Relationship to the Broader Enterprise AI Body of Work
 
